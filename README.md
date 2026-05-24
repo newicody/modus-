@@ -145,3 +145,8 @@ Contenu du repertoire master:
 ./tools/ outils
 ./carnet_entretient/ 
 ./programmation/
+./todolist/ a faire voir process
+./process/ instructions
+./process/phase0/
+./process/phase1/
+./process/phase2/
