@@ -150,3 +150,8 @@ Contenu du repertoire master:
 ./process/phase0/
 ./process/phase1/
 ./process/phase2/
+./prévisionnel/ performances attendues justification des éléments
+./insonorisation/ réduction du bruit et des vibration du dci
+./inspection/
+./nettoyage/
+./vis_boulons_filetages_écours_rondelles/
