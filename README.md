@@ -137,11 +137,11 @@ Contenu du repertoire master:
 ./Commandes/PROCESSING.md commandes envoyées
 ./Commandes/ACHIVED.md commandes recues
 ./Commandes/ informations detaillées sur les pieces
-./Journal.md
-./methodes_modus/
-./problemes/
-./café_modus/
-./garage/
-./tools/
-./carnet_entretient/
+./Journal.md faits relevés
+./methodes_modus/ astuces
+./problemes/ report des problèmes rencontrés
+./café_modus/ 
+./garage/ location
+./tools/ outils
+./carnet_entretient/ 
 ./programmation/
